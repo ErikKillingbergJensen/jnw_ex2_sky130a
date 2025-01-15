@@ -5,16 +5,14 @@ author: Anonymous
 # Your github username
 github: analogicus
 # Something funny and descriptive
-tagline: The answer is 42
+tagline: Bø!
 # Your email, if you so wish
-email: anon@anon.com
+email: erikkjen@gmail.com
 # Your github site, usually <github username>.github.io
-url: analogicus.github.io
+url: https://erikkillingbergjensen.github.io/
 doc:
-  # Make docs
-  #libraries:
-  #   <library>:
-  #       - <cell>
-  #       - <cell>
+  libraries:
+    JNW_EX_SKY130A:
+      - JNW_EX
 sim:
-  # <simdir>: command
+  JNW_EX: make typical
